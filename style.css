@@ -5,28 +5,28 @@ body {
   font-family: Lato, sans-serif;
 }
 
-.aaa {
+.eisenhower-matrix-container {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
 
-.aaa img {
+.eisenhower-matrix-container img {
   width: 100%;
 }
 
-.aaa .more_inf {
+.eisenhower-matrix-container .more_inf {
   font-family: fantasy, cursive;
 }
 
 @media (max-width: 768px) {
-  .aaa {
+  .eisenhower-matrix-container {
     text-align: center;
   }
 }
 
-.centered-main-page-element {
+.todo-list-container {
   display: block;
   width: 500px;
   margin: 0 auto 0;
