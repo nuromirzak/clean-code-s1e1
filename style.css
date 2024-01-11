@@ -47,11 +47,13 @@
   padding: 0px;
 }
 
-.todo__task, .todo__section-heading {
+.todo__task,
+.todo__section-heading {
   list-style: none;
 }
 
-.todo__input, .todo__btn {
+.todo__input,
+.todo__btn {
   outline: none;
 }
 
